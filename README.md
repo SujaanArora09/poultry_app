@@ -19,14 +19,16 @@ The Happy Poultry Farm App simplifies poultry farm management by offering an int
   <img src="https://github.com/SujaanArora09/poultry_app/assets/94820300/23fb3d87-2497-4e49-a63f-aa6bd68b615f" alt="Introduction Image" >
 </p>
 
+## Figma Prototype
+
+Our app's UI and prototype are meticulously designed using Figma. Dive into the complete prototype and design details via this [Figma link](https://www.figma.com/community/file/1279057568155371206/Happy-poultry-Farm).
+
+
 ## Screenshots
 ![poultry SS1](https://github.com/SujaanArora09/poultry_app/assets/94820300/a2a8aa3e-00e7-4163-8711-5f9017acea0f)
 ![poultry SS2](https://github.com/SujaanArora09/poultry_app/assets/94820300/cb382d12-4a8e-4b09-b8ba-c34150098756)
 ![poultry SS3](https://github.com/SujaanArora09/poultry_app/assets/94820300/066b7b35-8378-4197-97a5-bd05afaa4bf6)
 
-## Figma Prototype
-
-Our app's UI and prototype are meticulously designed using Figma. Dive into the complete prototype and design details via this [Figma link](https://www.figma.com/community/file/1279057568155371206/Happy-poultry-Farm).
 
 ## Getting Started
 
