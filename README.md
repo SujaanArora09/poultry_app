@@ -30,9 +30,27 @@ Our app's UI and prototype are meticulously designed using Figma. Dive into the 
 
 ## Getting Started
 
-To embark on your Happy Poultry Farm journey, follow these steps:
+Follow these steps to get started with MECHOL:
 
-1. **Clone the repository** to your local machine:
-
-   ```bash
+1. **Clone the Repository:**
+   ```
    git clone https://github.com/your-username/happy-poultry-farm-app.git
+   ```
+
+2. **Figma Design Integration:**
+   - Our UI/UX is meticulously crafted using Figma.
+
+3. **Flutter Powered App:**
+   - MECHOL is built with Flutter, ensuring a powerful and cross-platform experience. Make sure you have Flutter installed, then run:
+     ```
+     flutter run
+     ```
+## Contributing
+
+We welcome contributions from the community. If you'd like to contribute to the development of MECHOL, please follow our [Contribution Guidelines](CONTRIBUTING.md).
+
+## Contact Me
+If you have any questions or suggestions regarding the project, please feel free to [contact me](https://www.linkedin.com/in/sujaan-arora-274584216/).
+
+I hope it helps in easy and seamless poultry farm management & makes it more efficient for the poultry farm owners & the respective clients !
+
